@@ -1,7 +1,9 @@
 # My DSA Journey 🚀
 
 ## Overview
-Welcome to my **DSA Journey** repository! 🎉 This repository is a reflection of my consistent hard work, dedication, and passion for mastering Data Structures and Algorithms (DSA). Between **July 5, 2024**, and **December 31, 2024**, I committed myself to an intensive journey of learning and problem-solving based on **Love Babbar's 149 DSA videos** in C++. 
+Welcome to my **DSA Journey** repository! 🎉 This repository is a reflection of my consistent hard work, dedication, and passion for mastering Data Structures and Algorithms (DSA). Between **July 5, 2024**, and **December 31, 2024**, I committed myself to an intensive journey of learning and problem-solving based on **Love Babbar's 149 DSA videos** in C++.
+
+While this marks a significant milestone in my DSA journey, I believe that DSA is an ever-evolving field where true mastery comes from continuous learning and practice. It’s all about understanding the key aspects of each data structure and algorithm, along with their real-world applications. I am not a master yet, but I am fully committed to staying on this path and striving to improve. Who knows? I wouldn’t mind becoming a master someday! 😉
 
 Throughout this journey, I solved numerous problems, developed a deep understanding of core concepts, and applied my knowledge extensively on platforms like **LeetCode** and **VS Code**.
 
