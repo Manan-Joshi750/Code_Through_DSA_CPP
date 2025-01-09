@@ -17,6 +17,7 @@ This repository includes organized folders for various DSA topics. Here are the 
 - **Backtracking**: N-Queens, Sudoku Solver, and more.
 - **Linked Lists**: Single, Double, Circular, and operations.
 - **Pointers & Functions**: Deep dives and practical implementations.
+- **OOPS Concepts**: Encapsulation, Inheritance, Polymorphism, Abstraction and practical implementation.  
 - **Recursion**: Fundamentals, optimizations, and real-world problems.
 - **Dynamic Programming (DP)**: Knapsack, LCS, and beyond.
 - **Trees & Graphs**: Traversals, MSTs, Shortest Paths, and advanced problems.
