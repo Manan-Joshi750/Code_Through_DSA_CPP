@@ -39,6 +39,6 @@ The repository is structured topic-wise to help navigate easily. Each folder may
 This repository is not just a collection of codes; it’s a testament to my perseverance, consistency, and learning journey. While some folders may seem less populated, rest assured, I have given my best effort to every topic. Most of the practice reflects my extensive problem-solving on LeetCode.
 
 ## Let's Connect!
-Feel free to explore, suggest improvements, or discuss DSA concepts with me. You can check out my LeetCode progress here: [My LeetCode Profile](https://leetcode.com/u/MJ_Leet007/).
+Feel free to explore, suggest improvements, or discuss DSA concepts with me. You can check out my LeetCode progress here: [My LeetCode Profile](https://leetcode.com/u/MJ_LeetSniper007/).
 
 Happy Coding! 😊
