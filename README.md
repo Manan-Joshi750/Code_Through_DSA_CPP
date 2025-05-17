@@ -3,7 +3,8 @@
 ## Overview
 Welcome to my **DSA Journey** repository! 🎉 This repository is a reflection of my consistent hard work, dedication, and passion for mastering Data Structures and Algorithms (DSA). Between **July 5, 2024**, and **December 31, 2024**, I committed myself to an intensive journey of learning and problem-solving based on **Love Babbar's 149 DSA videos** in C++.
 
-While this marks a significant milestone in my DSA journey, I believe that DSA is an ever-evolving field where true mastery comes from continuous learning and practice. It’s all about understanding the key aspects of each data structure and algorithm, along with their real-world applications. I am not a master yet, but I am fully committed to staying on this path and striving to improve. Who knows? I wouldn’t mind becoming a master someday! 😉
+While this marks a significant milestone in my DSA journey, I believe that DSA is an ever-evolving field where true mastery comes from continuous learning and practice. It’s all about understanding the key aspects of each data structure and algorithm, along with their real-world applications. 
+I am not a master yet, but I am fully committed to staying on this path and striving to improve. Who knows? I wouldn’t mind becoming a master someday! 😉
 
 Throughout this journey, I solved numerous problems, developed a deep understanding of core concepts, and applied my knowledge extensively on platforms like **LeetCode** and **VS Code**.
 After completing this phase of structured learning, I continued to challenge myself and further enhance my problem-solving skills by actively participating on **CodeForces**, **CodeChef**, and **GeeksForGeeks**.
@@ -29,10 +30,10 @@ This repository includes organized folders for various DSA topics. Here are the 
 And many more...
 
 ## Repository Structure
-The repository is structured topic-wise to help navigate easily. Each folder may have fewer codes compared to the problems I actually solved because a significant portion of my work is reflected in my **LeetCode Profile**.
+The repository is structured topic-wise to help navigate easily. Each folder may have fewer codes compared to the problems I actually solved because a significant portion of my work is reflected in my **Coding Profiles**.
 
 ## Highlights
-- Solved numerous problems on **LeetCode**.
+- Solved numerous problems on **LeetCode**, **CodeForces**, **CodeChef** & **GeeksForGeeks**.
 - Implemented solutions in **C++**.
 - Worked on all foundational and advanced DSA concepts.
 - Stayed consistent and dedicated throughout this journey.
@@ -43,7 +44,8 @@ This repository is not just a collection of codes; it’s a testament to my pers
 ## 🚀 Let's Connect!
 
 I'm always open to meaningful discussions around Data Structures, Algorithms, or anything tech!  
-Feel free to explore the repository, drop suggestions, or just say hi. Collaboration and knowledge sharing are the best ways to grow. 💡
+Feel free to explore the repository, drop suggestions, or just say hi. 
+Collaboration and knowledge sharing are the best ways to grow. 💡
 
 📊 Check out my progress on :
 
