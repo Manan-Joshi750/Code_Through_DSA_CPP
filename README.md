@@ -6,6 +6,8 @@ Welcome to my **DSA Journey** repository! 🎉 This repository is a reflection o
 While this marks a significant milestone in my DSA journey, I believe that DSA is an ever-evolving field where true mastery comes from continuous learning and practice. It’s all about understanding the key aspects of each data structure and algorithm, along with their real-world applications. I am not a master yet, but I am fully committed to staying on this path and striving to improve. Who knows? I wouldn’t mind becoming a master someday! 😉
 
 Throughout this journey, I solved numerous problems, developed a deep understanding of core concepts, and applied my knowledge extensively on platforms like **LeetCode** and **VS Code**.
+After completing this phase of structured learning, I continued to challenge myself and further enhance my problem-solving skills by actively participating on **CodeForces**, **CodeChef**, and **GeeksForGeeks**.
+
 
 ## Topics Covered
 This repository includes organized folders for various DSA topics. Here are the topics I covered in detail:
@@ -38,7 +40,16 @@ The repository is structured topic-wise to help navigate easily. Each folder may
 ## Why This Repository?
 This repository is not just a collection of codes; it’s a testament to my perseverance, consistency, and learning journey. While some folders may seem less populated, rest assured, I have given my best effort to every topic. Most of the practice reflects my extensive problem-solving on LeetCode.
 
-## Let's Connect!
-Feel free to explore, suggest improvements, or discuss DSA concepts with me. You can check out my LeetCode progress here: [My LeetCode Profile](https://leetcode.com/u/MJ_LeetSniper007/).
+## 🚀 Let's Connect!
+
+I'm always open to meaningful discussions around Data Structures, Algorithms, or anything tech!  
+Feel free to explore the repository, drop suggestions, or just say hi. Collaboration and knowledge sharing are the best ways to grow. 💡
+
+📊 Check out my progress on :
+
+- [**LeetCode**](https://leetcode.com/u/MJ_LeetSniper007/)
+- [**Codeforces**](https://codeforces.com/profile/Manan_Joshi)
+- [**CodeChef**](https://www.codechef.com/users/chefmanan_007)
+- [**GeeksforGeeks**](https://www.geeksforgeeks.org/user/joshimaq6i8/)
 
 Happy Coding! 😊
