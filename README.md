@@ -9,7 +9,6 @@ I am not a master yet, but I am fully committed to staying on this path and stri
 Throughout this journey, I solved numerous problems, developed a deep understanding of core concepts, and applied my knowledge extensively on platforms like **LeetCode** and **VS Code**.
 After completing this phase of structured learning, I continued to challenge myself and further enhance my problem-solving skills by actively participating on **CodeForces**, **CodeChef**, and **GeeksForGeeks**.
 
-
 ## Topics Covered
 This repository includes organized folders for various DSA topics. Here are the topics I covered in detail:
 
@@ -37,6 +36,8 @@ The repository is structured topic-wise to help navigate easily. Each folder may
 - Implemented solutions in **C++**.
 - Worked on all foundational and advanced DSA concepts.
 - Stayed consistent and dedicated throughout this journey.
+- Completed a 1-month **C++ Programming Internship at [CodeAlpha](https://www.codealpha.tech/)** in **May 2025**, building 4 structured C++ projects like a **Banking System**, **CGPA Calculator**, **Sudoku Solver**, and a **modular Login System**.  
+  → 🔗 [View Internship Projects](https://github.com/Manan-Joshi750/codealpha_tasks)
 
 ## Why This Repository?
 This repository is not just a collection of codes; it’s a testament to my perseverance, consistency, and learning journey. While some folders may seem less populated, rest assured, I have given my best effort to every topic. Most of the practice reflects my extensive problem-solving on LeetCode.
