@@ -50,7 +50,7 @@ Collaboration and knowledge sharing are the best ways to grow. 💡
 
 📊 Check out my progress on :
 
-- [**LeetCode**](https://leetcode.com/u/#/)
+- [**LeetCode**](https://leetcode.com/u/MJ_LeetSniper027/)
 - [**Codeforces**](https://codeforces.com/profile/Manan_Joshi)
 - [**CodeChef**](https://www.codechef.com/users/chefmanan_007)
 - [**GeeksforGeeks**](https://www.geeksforgeeks.org/user/joshimaq6i8/)
