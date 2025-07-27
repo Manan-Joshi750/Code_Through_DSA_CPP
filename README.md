@@ -51,8 +51,8 @@ Collaboration and knowledge sharing are the best ways to grow. 💡
 📊 Check out my progress on :
 
 - [**LeetCode**](https://leetcode.com/u/MJ_LeetSniper027/)
-- [**Codeforces**](https://codeforces.com/profile/MJ_X-Force_027)
 - [**CodeChef**](https://www.codechef.com/users/chefmanan_007)
 - [**GeeksforGeeks**](https://www.geeksforgeeks.org/user/joshimaq6i8/)
+- [**Codeforces**](https://codeforces.com/profile/MJ_X-Force_027)
 
 Happy Coding! 😊
