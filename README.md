@@ -52,7 +52,7 @@ Collaboration and knowledge sharing are the best ways to grow. 💡
 
 - [**LeetCode**](https://leetcode.com/u/MJ_LeetSniper027/)
 - [**CodeChef**](https://www.codechef.com/users/chefmanan_007)
-- [**GeeksforGeeks**](https://www.geeksforgeeks.org/user/joshimaq6i8/)
+- [**GeeksforGeeks**](https://www.geeksforgeeks.org/user/codemonk27/)
 - [**Codeforces**](https://codeforces.com/profile/MJ_X-Force_027)
 
 Happy Coding! 😊
